@@ -1,0 +1,13 @@
+/Library/
+/Logs/
+/obj/
+/Packages/
+/ProjectSettings/
+/Temp/
+/Assets/animation/
+/Assets/fonts/
+/Assets/materials/
+/Assets/Prefabs/
+/Assets/Scenes/
+/Assets/WarZone Sci-Fi Turret pack/
+/Assets/*.meta
